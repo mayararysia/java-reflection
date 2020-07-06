@@ -1,4 +1,4 @@
-# Calculador de Atributos de Classe
+# Calculador de Atributos de Classe - Desafio Codenation
 
 Você precisa somar ou subtrair determinados atributos do tipo *BigDecimal* de uma *classe*. Pra isso você deverá cria uma *annotation* ("Somar") para determinar quais atributos serão somados e outra *annotation* ("Subtrair") para todos os atributos que serão subtraídos. 
 Você deverá criar uma interface  `Calculavel`. Esta interface possui 3 métodos:
